@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\CSS_WORK"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\HTML_WORK"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\JavaScipt_WorkSpace"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavaScipt_WorkSpace"
+	}
+}
